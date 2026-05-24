@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: 社区讨论
+    url: https://github.com/lupo168/ecommerce-knowledge-base/discussions
+    about: 非具体问题/改进的讨论，到 Discussions 区
