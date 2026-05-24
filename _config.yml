@@ -3,8 +3,6 @@ description: 基于 PMP 五过程组框架的货架电商运营方法论
 baseurl: "/ecommerce-knowledge-base"
 url: "https://lupo168.github.io"
 
-theme: jekyll-theme-cayman
-
 exclude:
   - .gitignore
   - CHANGELOG.md
