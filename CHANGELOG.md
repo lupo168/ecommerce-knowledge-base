@@ -1,5 +1,43 @@
 # CHANGELOG
 
+## v6.1.0 (2026-05-24) — PRODUCT DEVELOPMENT RELEASE
+
+### 知识库新增模块
+
+**04-定价体系新增**：
+- `pricing-models.md`：三层毛利计算、五种定价模型、库存健康度三色模型、现金流三条生命线、六项库存指标、定价心理学（锚定效应/价格尾数/折中效应/损失厌恶/组合定价）
+
+**07-产品开发（全新模块）**：
+- `product-mvp.md`：MVP 四分层（概念/外观/功能/众筹）、概念验证 3 问、3D 打印方案对比、众筹平台选择、量产决策矩阵
+- `new-product-trial.md`：引进预估、14-30 天试销监控、贡献评估 6 项、决策矩阵
+- `manufacturing-decision.md`：工艺选择决策树、3D 打印/开模/钣金工艺对比、盈亏平衡计算、DFM 检查清单、隐藏成本清单
+- `supplier-management.md`：寻源 6 渠道、产业带速查、5 维评估框架、分级管理、合同关键条款、验厂清单、物流发货 SOP
+
+**03-分析方法新增 7 篇**：
+- `ab-test.md`、`category-health.md`、`customer-rfm.md`、`data-analysis.md`、`gmv-forecast.md`、`search-optimization.md`、`trust-architecture.md`
+
+### Skill 更新至 v6.1.0
+
+- 新增 NSM 北极星指标与 OKR 体系
+- 新增产品路线图（Now/Next/Later 三视域）
+- 新增 GTM 上市 SOP（Day 1-7 时间线）
+- 新增电商 QC 检查清单（首批全检 + 持续抽检 + 差评联动）
+- 新增 BCG 产品组合矩阵（明星/金牛/问题/瘦狗）
+- 新增定价心理学模块
+- 新增路径 D（产品开发）：按需加载 product-mvp / manufacturing-decision / supplier-management
+- 新增触发词：NSM/OKR/GTM/QC/BCG/定价心理学/MVP/3D 打印/开模/供应商/验厂/众筹 等 30+ 个
+- References 扩展至 25 个文件（原 9 个）
+- SKILL.md 行数：534 行（v4.0: 382 行）
+
+### 版本对比
+| 指标 | v4.0.0 (KB) | v6.1.0 (KB) |
+|------|-----------|-----------|
+| 知识库文章数 | 20 | 35 |
+| 知识库模块数 | 6 | 7 |
+| Skill 行数 | 382 | 534 |
+| Skill references | 9 | 25 |
+| 触发词数 | ~50 | ~85 |
+
 ## v4.0.0 (2026-05-24) — DECISION PATH RELEASE
 
 ### 重大升级：基于货架电商购物决策路径的优化

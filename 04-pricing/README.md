@@ -17,9 +17,11 @@ has_children: true
 |------|------|
 | [五价联动模型](./five-price-model.md) | 六种价格的定义、定价公式、毛利测算、检查清单 |
 | [定价决策矩阵](./pricing-decision-matrix.md) | 按场景选择策略：新品上市/成熟爆款/清仓/高端/分销 |
+| [定价模型与成本核算](./pricing-models.md) | 三层毛利、五种定价模型、库存健康度、现金流、定价心理学 |
 
 ## 快速定位
 
 - 不确定怎么定价 → [五价联动模型](./five-price-model.md)
 - 新品/清仓/高端不知道该用什么策略 → [定价决策矩阵](./pricing-decision-matrix.md)
+- 算毛利、选定价模型、管库存现金流 → [定价模型与成本核算](./pricing-models.md)
 - 需要计算模板 → [定价计算器模板](../06-templates/pricing-calculator.md)

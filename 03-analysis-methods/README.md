@@ -18,6 +18,13 @@ has_children: true
 | [热词分析框架](./keyword-framework.md) | 词分类体系、组词公式、8平台词库、选词标准 | 标题优化、投放选词 |
 | [视觉分析框架](./visual-analysis.md) | 主图5张分工、详情页9模块、差异化方法 | 视觉策划、详情页优化 |
 | [全媒体分发策略](./media-strategy.md) | 8平台分发、达人合作SOP、内容种草节奏 | 全域营销规划 |
+| [A/B Test](./ab-test.md) | 五步标准流程、各平台工具、决策矩阵 | 方案对比验证 |
+| [品类健康度](./category-health.md) | VPE得分、品类角色监控、SKU结构、BCG矩阵 | 品类结构优化 |
+| [RFM 客户分层](./customer-rfm.md) | R×F×M 三维模型、8种客户类型、生命周期管理 | 客户运营、复购提升 |
+| [数据分析方法](./data-analysis.md) | 五步法、核心指标速查、仪表盘模板 | 日常监控、异常排查 |
+| [GMV 预估与预算](./gmv-forecast.md) | 销量→GMV→备货→预算→盈亏推导链 | 新品规划、预算制定 |
+| [搜索曝光优化](./search-optimization.md) | 搜索权重拆解、长尾词、筛选条件、破零策略 | 搜索排名提升 |
+| [信任体系建设](./trust-architecture.md) | 信任金字塔、问大家运营、DSR管理、差评处理 | 信任建设、售后管理 |
 
 ## 如何使用
 
