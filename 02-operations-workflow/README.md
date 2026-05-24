@@ -1,3 +1,10 @@
+---
+title: 02 运营全流程
+nav_order: 3
+parent: 首页
+has_children: true
+---
+
 # 02 运营全流程（PMP 五过程组）
 
 将 PMP（Project Management Professional）五过程组框架映射到电商运营全链路。

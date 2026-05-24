@@ -1,3 +1,10 @@
+---
+title: 01 赚钱逻辑
+nav_order: 2
+parent: 首页
+has_children: true
+---
+
 # 01 电商赚钱逻辑
 
 理解电商运营的底层盈利模型，知道钱从哪里来、从哪里漏走。

@@ -1,3 +1,9 @@
+---
+title: Phase 3 监控
+parent: 02 运营全流程
+nav_order: 4
+---
+
 # Phase 3：监控（Monitoring & Controlling）
 
 ## 核心监控体系

@@ -1,3 +1,9 @@
+---
+title: Phase 1 规划
+parent: 02 运营全流程
+nav_order: 2
+---
+
 # Phase 1：规划（Planning）
 
 规划阶段是运营成败的关键——分析先行，战略从分析中生长。

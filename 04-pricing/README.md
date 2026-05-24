@@ -1,3 +1,10 @@
+---
+title: 04 定价体系
+nav_order: 5
+parent: 首页
+has_children: true
+---
+
 # 04 定价体系
 
 ## 核心思想

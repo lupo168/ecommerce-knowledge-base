@@ -1,3 +1,9 @@
+---
+title: RACI 矩阵模板
+parent: 06 模板工具
+nav_order: 5
+---
+
 # RACI 矩阵模板 — 电商运营项目
 
 > R = 负责（Responsible）| A = 审批（Accountable）| C = 咨询（Consulted）| I = 知会（Informed）

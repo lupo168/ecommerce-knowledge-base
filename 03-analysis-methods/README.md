@@ -1,3 +1,10 @@
+---
+title: 03 分析方法
+nav_order: 4
+parent: 首页
+has_children: true
+---
+
 # 03 分析方法
 
 电商运营的核心分析工具箱。

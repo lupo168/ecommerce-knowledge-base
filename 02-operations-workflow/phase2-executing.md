@@ -1,3 +1,9 @@
+---
+title: Phase 2 执行
+parent: 02 运营全流程
+nav_order: 3
+---
+
 # Phase 2：执行（Executing）
 
 | 电商动作 | PMP过程 | 产出物 |

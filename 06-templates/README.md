@@ -1,3 +1,10 @@
+---
+title: 06 模板工具
+nav_order: 7
+parent: 首页
+has_children: true
+---
+
 # 06 模板工具
 
 实操模板集，配合分析方法论使用。
